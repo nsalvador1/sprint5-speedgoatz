@@ -8,7 +8,6 @@ permalink: /backlogs/product-backlog/
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| SF-001 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 5 | N | Unassigned | - |
 | SF-002 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Unassigned | - |
 | SF-003 | As a developer, get permissions to access ECamS Billboard API run the frontend locally and make a small, visible change by adding your name to the Credits section | 10 | 3 | Y | Unassigned | - |
 | SF-004 | As a user, I would like to send feedback, so that I may ask questions | 7 | 3 | N | Unassigned | - |
