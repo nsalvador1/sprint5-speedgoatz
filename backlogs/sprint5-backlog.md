@@ -18,5 +18,8 @@ Sprint 4 Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-
-
+| SF-001 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Niko |
+| SF-001 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Alex |
+| SF-001 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Luke |
+| SF-001 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Tony |
+| SF-001 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Kiran |
