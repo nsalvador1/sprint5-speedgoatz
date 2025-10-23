@@ -31,23 +31,18 @@ Sprint 4 Backlog:
 | SF-008 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Assigned | Luke |
 | SF-009 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Assigned | Tony |
 | SF-010 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Assigned | Kiran |
-| SF-011 | As a product owner, I'd like to coordinate with my team to groom the product backlog. | 10 | 1 | N | Unassigned | Niko |
+| SF-011 | As a product owner, I'd like to coordinate with my team to groom the product backlog. | 10 | 1 | N | Assigned | Niko |
 
----
-Storys: 11
-Story Points Commited: 26
-% Spikes: 45%
-Niko Stories: 2
-Niko SP: 6
-Alex Stories: 2
-Alex SP: 5
-Luke Stories: 2
-Luke SP: 5
-Tony Stories: 2
-Tony SP: 5
-Kiran Stories: 2
-Kiran SP: 5
----
+|   | **Storys** | **Story Points Commited** | **% Spikes** |
+|---|--------|------------------------|--------------|
+| Niko   | 2  | 6  | 33% |
+| Alex   | 2  | 5  | 50% |
+| Tony   | 2  | 5  | 50% |
+| Kiran  | 2  | 5  | 50% |
+| Total  | 11 | 26 | 45% |
+
+
+
 
 
 
