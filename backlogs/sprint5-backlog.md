@@ -10,9 +10,11 @@ Scrum Master: Alex
 
 Product Owner: Niko
 
-Sprint 5 Planning Date/Time:
+Sprint 5 Planning Date/Time: Tuesdays, 9-10
 
 Sprint 5 Planning Participants: Niko, Alex, Tony, Luke, Saikiran
+
+Done: we all said that its when everything is test and there is not flaws in story. We will call the story "Done"
 
 Sprint 4 Backlog:
 
@@ -29,3 +31,4 @@ Sprint 4 Backlog:
 | SF-002 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Assigned | Tony |
 | SF-002 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Assigned | Kiran |
 | SF-006 | As a product owner, I'd like to coordinate with my team to groom the product backlog. | 10 | 1 | N | Unassigned | Niko |
+
