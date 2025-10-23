@@ -4,6 +4,9 @@ title: Product Backlog
 permalink: /backlogs/product-backlog/
 ---
 
+Sprit 4 Participation: All participated so that was good
+Spirit 4R eveiw: We feel like we could of communited a little better but the work and APi set up were out best
+
 # 📋 Product Backlog – *Sprint 5*
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
