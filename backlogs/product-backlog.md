@@ -5,14 +5,13 @@ title: Product Backlog
 permalink: /backlogs/product-backlog/
 ---
 
-Sprit 4 Participation: All participated so that was good
+Sprint 4 Participation: All participated so that was good
 Spirit 4R eveiw: We feel like we could of communited a little better but the work and APi set up were out best
 
 # 📋 Product Backlog – *Sprint 5*
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| SF-002 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Unassigned | - |
 | SF-003 | As a developer, get permissions to access ECamS Billboard API run the frontend locally and make a small, visible change by adding your name to the Credits section | 10 | 20 | Y | Unassigned | - |
 | SF-004 | As a user, I would like to send feedback, so that I may ask questions | 7 | 2 | N | Unassigned | - |
 | SF-005 | As a user, I'd like to have a visible feedback button or page on the app, so that I could provide feedback. | 10 | 3 | N | Unassigned | - |
@@ -21,3 +20,8 @@ Spirit 4R eveiw: We feel like we could of communited a little better but the wor
 | SF-008 | As a developer, I want to configure a production CI/CD pipeline, so that deployments can be automated and consistent. | 10 | 5 | Y | Unassigned | - |
 | SF-009 | As a developer, I want to set up a development CI/CD pipeline for this of the product. | 10 | 5 | Y | Unassigned | - |
 | SF-010 | As a user, I want to receive a confirmation message after submitting feedback to the credit people. | 5 | 3 | N | Unassigned | - |
+| SF-011 | As a developer, I want to use the billboard to see what we can improve on | 5 | 2 | Y | Unassigned | - |
+| SF-012 | As a developer, I want to plan and discuss a good user-interface | 7 | 3 | Y | Unassigned | - |
+| SF-013 | As a user, I want to see a welcoming, simple, and engaging user-interface that is easy to use | 8 | 8 | N | Unassigned | - |
+
+
