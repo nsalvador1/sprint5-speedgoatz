@@ -23,5 +23,8 @@ Spirit 4R eveiw: We feel like we could of communited a little better but the wor
 | SF-011 | As a developer, I want to use the billboard to see what we can improve on | 5 | 2 | Y | Unassigned | - |
 | SF-012 | As a developer, I want to plan and discuss a good user-interface | 7 | 3 | Y | Unassigned | - |
 | SF-013 | As a user, I want to see a welcoming, simple, and engaging user-interface that is easy to use | 8 | 8 | N | Unassigned | - |
+| SF-014 | As a developer, I want to confirm what backend development platform the team is using (Node.JS or Firebase)  | 9 | 1 | Y | Unassigned | - |
+| SF-015 | As a developer, I want to learn and understand the platform the team will be using for backend development | 9 | 3 | Y | Unassigned | - |
+| SF-016 | As a developer, I want to learn and understand Tailwind | 8 | 3 | Y | Unassigned | - |
 
 
