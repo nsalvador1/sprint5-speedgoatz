@@ -21,11 +21,11 @@ Sprint 5 Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| SF-001 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Niko |
-| SF-002 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Alex |
-| SF-003 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Luke |
-| SF-004 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Tony |
-| SF-005 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Assigned | Kiran |
+| SF-001 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Done | Niko |
+| SF-002 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Done | Alex |
+| SF-003 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Done | Luke |
+| SF-004 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Done | Tony |
+| SF-005 | As a user, I would like to see the developers in the credits page so that I can ask for help | 10 | 4 | N | Done | Kiran |
 | SF-006 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Assigned | Niko |
 | SF-007 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Assigned | Alex |
 | SF-008 | As a developer, find a date/time for celebration of scholarship | 10 | 1 | Y | Assigned | Luke |
@@ -40,6 +40,7 @@ Sprint 5 Backlog:
 | Tony   | 2  | 5  | 50% |
 | Kiran  | 2  | 5  | 50% |
 | Total  | 11 | 26 | 45% |
+
 
 
 
