@@ -1,5 +1,6 @@
 ---
-capacity: 30 
+capacity: 40
+ind. capacity: 8
 title: Product Backlog
 permalink: /backlogs/product-backlog/
 ---
