@@ -15,7 +15,7 @@ Sprint 5 Planning Date/Time: 10/22/25 10pm Online
 
 Sprint 5 Planning Participants: Niko, Alex, Tony, Luke, Saikiran
 
-Done: When every requirment is completed, tested, and deliverable it is considered "done".
+Done: When every requirment is demoable in production, completed, tested, and deliverable it is considered "done".
 
 Sprint 5 Backlog:
 
@@ -40,6 +40,7 @@ Sprint 5 Backlog:
 | Tony   | 2  | 5  | 50% |
 | Kiran  | 2  | 5  | 50% |
 | Total  | 11 | 26 | 45% |
+
 
 
 
